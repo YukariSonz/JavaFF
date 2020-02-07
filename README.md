@@ -6,7 +6,7 @@ FastForward Planner Implemented in Java
 
 
 
-## Master
+## Main
 Main Track of CW
 
 ## Satisfying
